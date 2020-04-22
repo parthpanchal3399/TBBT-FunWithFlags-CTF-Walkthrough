@@ -355,7 +355,9 @@ nc -lvp 4444
 ```
 
 > WE ARE ROOT! 
+
 <br>
+
 ![root](img/root.PNG)
 
 <br> 
